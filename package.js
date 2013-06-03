@@ -2,8 +2,8 @@ Package.describe({
     summary: "Generate datamatrix tags (server side)."
 });
 
-Npm.depends({dmcreator: '0.0.1'});
+Npm.depends({dmcreator: "0.0.1"});
 
 Package.on_use(function(api) {
-    api.add_files('dmCreator.js', 'server');
+    api.add_files("dmCreator.js", "server");
 });
