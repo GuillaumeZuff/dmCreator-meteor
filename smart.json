@@ -2,6 +2,7 @@
     "name": "dmcreator",
     "description": "Create datamatrix tags.",
     "author": "Guillaume Zufferey <guillaume.zufferey@gmail.com>",
-    "version": "0.0.2",
+    "homepage": "https://github.com/GuillaumeZuff/dmCreator-meteor",
+    "version": "0.0.21",
     "git": "https://github.com/GuillaumeZuff/dmCreator-meteor"
 }
