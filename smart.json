@@ -3,6 +3,6 @@
     "description": "Create datamatrix tags.",
     "author": "Guillaume Zufferey <guillaume.zufferey@gmail.com>",
     "homepage": "https://github.com/GuillaumeZuff/dmCreator-meteor",
-    "version": "0.0.3",
+    "version": "0.0.31",
     "git": "https://github.com/GuillaumeZuff/dmCreator-meteor"
 }
