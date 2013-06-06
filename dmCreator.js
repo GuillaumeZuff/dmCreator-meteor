@@ -10,7 +10,7 @@ DmCreator = {
         if (options === undefined) options = {}; 
         return dm.generateDm(options);
     },
-    decodeDM: function(options) {
+    decodeDm: function(options) {
         if (options === undefined) options = {};
         return dm.decodeDm(options);
     }
