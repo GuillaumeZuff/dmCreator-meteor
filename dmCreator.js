@@ -1,4 +1,4 @@
-var dm = Npm.require('dmCreator');
+var dm = Npm.require('dmcreator');
 
 DmCreator = {
     // options:
