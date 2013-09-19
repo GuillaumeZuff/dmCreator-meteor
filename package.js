@@ -6,4 +6,7 @@ Npm.depends({dmcreator: "0.0.6"});
 
 Package.on_use(function(api) {
     api.add_files("dmCreator.js", "server");
+    if (typeof api.export !== 'undefined') {
+        api.export(['DmCreator'],'server');
+    }
 });
